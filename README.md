@@ -1,6 +1,6 @@
-# kuangyunkuangji
+# kuangyun
 
-> kuangyunkuangji project
+> kuangyun project
 
 ## Build Setup
 
